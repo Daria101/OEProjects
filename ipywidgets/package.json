@@ -1,0 +1,22 @@
+{
+  "name": "ipython-widget-deps",
+  "version": "4.0.0",
+  "description": "IPython widget nodejs dependencies",
+  "author": "IPython Developers",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipython/ipython_widget.git"
+  },
+  "devDependencies": {
+    "bower": "*",
+    "spawn-sync": "*",
+    "gulp": "^3.8.11",
+    "gulp-less": "^3.0.2",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.1",
+    "less": "~2",
+    "source-map": "^0.4.2"
+  }
+}
